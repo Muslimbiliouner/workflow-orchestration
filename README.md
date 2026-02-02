@@ -1,10 +1,3 @@
-Siap 👍
-Ini **README.md yang rapi, profesional, dan enak dibaca** — cocok untuk repo GitHub homework **Week 2 – Workflow Orchestration (Kestra)**.
-Gaya **engineering-focused**, bukan lebay, dan pas buat portfolio.
-
----
-
-````md
 # Data Engineering Zoomcamp 2026 – Week 2  
 ## Workflow Orchestration with Kestra
 
